@@ -14,12 +14,12 @@ Toda a modelagem, agregações e cálculos foram realizados diretamente no Table
 
 analise-vendas-tableau/
 
-├── data/  
-│   └── data_frame_principal.xls  
-
 ├── dashboard/  
 │   ├── Analise_de_Vendas_e_Lucratividade.twb  
 │   └── preview_dashboard.png  
+
+├── data/  
+│   └── data_frame_principal.xls  
 
 ├── images/  
 │   ├── dashboard_overview.png  
@@ -129,4 +129,5 @@ Robert Alves
 [<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/9a520da9-52c1-4f9a-bbce-4995af8764fb" />
 ](https://www.linkedin.com/in/robertalves-/)   -  [<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/988acbf7-9722-4c19-a347-8a8d9a1bc07b" />
 ](https://github.com/RobertSilvaAlves)
+
 
