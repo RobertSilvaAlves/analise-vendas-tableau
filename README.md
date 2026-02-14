@@ -34,7 +34,8 @@ analise-vendas-tableau/
 
 ## Visão Geral do Dashboard
 
-![Visão Geral do Dashboard](images/dashboard_overview.png)
+<img width="1351" height="693" alt="preview_dashboard" src="https://github.com/user-attachments/assets/4e4aa5d4-35f9-4e2f-8521-5c3276e2253e" />
+
 
 O dashboard foi estruturado com KPIs principais no topo, seguidos por análises temporais, comparações por categoria e região, ranking de produtos e previsão de vendas.
 
@@ -44,7 +45,8 @@ A organização foi pensada para permitir leitura rápida e interpretação exec
 
 ## Evolução das Vendas
 
-![Evolução das Vendas](images/evolucao_vendas.png)
+<img width="1366" height="597" alt="02_evolucao_vendas" src="https://github.com/user-attachments/assets/e2defaf0-6c3b-44a4-9782-0a2599a377a6" />
+
 
 A análise temporal permite identificar tendências de crescimento, oscilações ao longo do período e possíveis padrões sazonais.
 
@@ -54,7 +56,8 @@ Foi aplicado forecast automático do Tableau sobre as vendas mensais para estima
 
 ## Lucro por Categoria
 
-![Lucro por Categoria](images/lucro_categoria.png)
+<img width="1354" height="597" alt="03_lucro_categoria" src="https://github.com/user-attachments/assets/21b68998-9052-4411-b34b-4f403f860eac" />
+
 
 Essa visualização destaca quais categorias apresentam maior contribuição para o lucro total e evidencia diferenças relevantes de desempenho.
 
@@ -62,7 +65,8 @@ Essa visualização destaca quais categorias apresentam maior contribuição par
 
 ## Vendas por Região
 
-![Vendas por Região](images/vendas_regiao.png)
+<img width="1356" height="595" alt="04_vendas_regiao" src="https://github.com/user-attachments/assets/e6fefbee-ec92-45eb-a6fe-0c5b3a1ae2b7" />
+
 
 A comparação regional permite identificar mercados com maior volume de vendas e possíveis oportunidades estratégicas.
 
@@ -70,7 +74,8 @@ A comparação regional permite identificar mercados com maior volume de vendas 
 
 ## Top Produtos por Lucro
 
-![Top Produtos por Lucro](images/top_produtos.png)
+<img width="1186" height="587" alt="05_top_produtos" src="https://github.com/user-attachments/assets/85d99402-5789-4c54-b3f7-f6faa8eb145b" />
+
 
 O ranking evidencia que uma parcela significativa do lucro está concentrada em um grupo reduzido de produtos, reforçando a importância de análise de portfólio.
 
@@ -78,11 +83,8 @@ O ranking evidencia que uma parcela significativa do lucro está concentrada em 
 
 ## Principais Insights
 
-- As vendas apresentaram trajetória de crescimento ao longo do período analisado.
-- O lucro não cresce de forma perfeitamente proporcional às vendas, indicando variações de margem.
-- A categoria Technology demonstrou maior impacto no resultado financeiro.
-- Algumas regiões concentram maior volume de vendas.
-- A previsão automática sugere continuidade da tendência observada no curto prazo.
+<img width="1361" height="574" alt="06_Insites_Finais" src="https://github.com/user-attachments/assets/38e25bb2-4f2e-4c0f-96dd-46ff115ef4c5" />
+
 
 ---
 
@@ -100,6 +102,12 @@ O ranking evidencia que uma parcela significativa do lucro está concentrada em 
 2. Abra no Tableau Desktop.
 3. Navegue pelas Sheets, Dashboard e Story para visualizar a análise completa.
 
+# Ou Acessando os links abaixo:
+
+[Acessar o Story](https://public.tableau.com/shared/S4BHMQC94?:display_count=n&:origin=viz_share_link)
+
+[Acessar o Dashboard](https://public.tableau.com/views/AnlisedeVendaseLucratividade/Dashboard?:language=pt-BR&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ---
 
 ## Aprendizados
@@ -116,6 +124,9 @@ Durante o desenvolvimento deste projeto, foi possível aprofundar conhecimentos 
 
 ## Autor
 
-Seu Nome  
-LinkedIn: seu link  
-GitHub: seu link
+Robert Alves
+
+[<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/9a520da9-52c1-4f9a-bbce-4995af8764fb" />
+](https://www.linkedin.com/in/robertalves-/)   -  [<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/988acbf7-9722-4c19-a347-8a8d9a1bc07b" />
+](https://github.com/RobertSilvaAlves)
+
